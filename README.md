@@ -1,5 +1,4 @@
-## Hi there 👋
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF1Ym14NzJxOHlwczc5eTFyMDhiNTVxeWw3dnJtcWtwMWd0Y202cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAOjunY81Trjy/giphy.gif
 <!--
 **gabrieljkeene/gabrieljkeene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
